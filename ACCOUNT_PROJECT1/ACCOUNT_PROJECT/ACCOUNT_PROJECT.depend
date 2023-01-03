@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1640618983 source:/home/sharif/Music/ACCOUNT_PROJECT/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<stdio.h>
+	<unistd.h>
+
